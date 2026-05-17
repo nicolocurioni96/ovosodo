@@ -1,6 +1,7 @@
 export const businessConfig = {
   // Identity
   name: "Ovosodo",
+  category: "restaurant",
   tagline: "Cucina autentica, ingredienti freschi, momenti indimenticabili.",
   city: "Milano",
 
@@ -8,6 +9,7 @@ export const businessConfig = {
   address: "Via Raffaele Lambruschini, 29, 20158 Milano MI",
   phone: "+39 388 474 4551",
   email: "",
+  bookingUrl: "",
 
   // Online presence
   googleMapsUrl: "https://maps.google.com/?q=Via%20Raffaele%20Lambruschini%2C%2029%2C%2020158%20Milano%20MI",
