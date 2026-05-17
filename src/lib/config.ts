@@ -82,6 +82,12 @@ export const businessConfig = {
     }
   ],
 
+  // Social Media
+  social: {
+    instagram: "",
+    facebook: "https://www.facebook.com/ovobovisa/",
+  },
+
   // Hours
   hours: [
     "Lun – Ven: 9:00 – 19:00",
